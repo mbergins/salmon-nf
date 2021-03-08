@@ -10,7 +10,7 @@ Be sure to run at least Nextflow version 0.30.2.
 
 ### Singularity
 Install `singularity` following the instructions at
-https://singularity.lbl.gov/install-linux
+https://sylabs.io/guides/3.7/user-guide/quick_start.html#quick-installation-steps
 
 ### salmon-nf pipeline
 
